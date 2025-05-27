@@ -1,4 +1,3 @@
-# PRODIGY_DS_01
 # Top 10 Most Populous Countries in 2023
 
 This colab Notebook analyzes population data from the World Bank to identify and visualize the top 10 most populous countries in 2023.
